@@ -1,0 +1,6 @@
+{
+"id":"test",
+"number":9876,
+"script":"scripts.SoundTest",
+"important":false
+}

@@ -1,0 +1,12 @@
+[
+    {
+        "op": "add",
+        "path": "/tracks/-",
+        "value": {
+            "id": "oldtown",
+            "name": "Old Town",
+            "music": "/music/0x_-_Town\\..*",
+            "transitions": {}
+        }
+    }
+]

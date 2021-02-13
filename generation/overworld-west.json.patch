@@ -1,0 +1,45 @@
+[
+    {
+        "op": "replace",
+        "path": "/biomes/landmarked/0/radius",
+        "value": 22
+    },
+    {
+        "op": "replace",
+        "path": "/biomes/landmarked/0/landmark",
+        "value": 1
+    },
+    {
+        "op": "replace",
+        "path": "/biomes/landmarked/0/biome",
+        "value": "overworld_glitch"
+    },
+    {
+        "op": "add",
+        "path": "/biomes/landmarked/-",
+        "value": {
+            "biome": "overworld_graveyard",
+            "landmark": 3,
+            "radius": 33
+        }
+    },
+    {
+        "op": "add",
+        "path": "/biomes/landmarked/-",
+        "value": {
+            "biome": "overworld_autumn",
+            "landmark": 4,
+            "radius": 33
+        }
+    },
+    {
+        "op": "replace",
+        "path": "/map/height",
+        "value": 11
+    },
+    {
+        "op": "replace",
+        "path": "/map/width",
+        "value": 10
+    }
+]

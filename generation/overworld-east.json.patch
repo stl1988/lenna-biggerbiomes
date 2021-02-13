@@ -1,0 +1,33 @@
+[
+    {
+        "op": "add",
+        "path": "/biomes/landmarked",
+        "value": [
+            {
+                "biome": "overworld_plains",
+                "landmark": 0,
+                "radius": 44
+            },
+            {
+                "biome": "overworld_graveyard",
+                "landmark": 1,
+                "radius": 44
+            },
+            {
+                "biome": "overworld_water",
+                "landmark": 2,
+                "radius": 44
+            }
+        ]
+    },
+    {
+        "op": "replace",
+        "path": "/map/height",
+        "value": 11
+    },
+    {
+        "op": "replace",
+        "path": "/map/width",
+        "value": 10
+    }
+]
